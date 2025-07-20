@@ -1,0 +1,12 @@
+streamlit==1.29.0
+pandas==1.5.3
+numpy==1.23.5
+scipy==1.10.1
+plotly==5.17.0
+openpyxl==3.1.2
+kaleido==0.2.1
+matplotlib==3.6.3
+imageio==2.31.6
+scikit-learn==1.2.2
+tslearn==0.5.3.2
+pillow==9.4.0
